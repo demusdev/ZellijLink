@@ -1,0 +1,30 @@
+[
+    {
+        "caption": "Zellij Link: Send Selected",
+        "command": "zellij_link_send_selected"
+    },
+    {
+        "caption": "Zellij Link: Focus Tab",
+        "command": "zellij_link_focus_tab"
+    },
+    {
+        "caption": "Zellij Link: Select Session",
+        "command": "zellij_link_select_session"
+    },
+    {
+        "caption": "Zellij Link: Load Config",
+        "command": "zellij_link_load_config"
+    },
+    {
+        "caption": "Zellij Link: Run Tab",
+        "command": "zellij_link_run_tab"
+    },
+    {
+        "caption": "Zellij Link: Bind Buffer to Zellij Tab",
+        "command": "zellij_link_bind_buffer"
+    },
+    {
+        "caption": "Zellij Link: Remove Buffer to Zellij Tab Binding",
+        "command": "zellij_link_unbind_buffer"
+    },
+]
