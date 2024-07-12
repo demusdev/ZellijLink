@@ -5,14 +5,6 @@ import os
 import pprint
 
 
-def add_to_path(dir):
-    if not dir in os.environ['PATH']:
-        os.environ['PATH'] = os.environ['PATH'] + os.pathsep + dir
-
-
-# add M1 Homebrew bin to $PATH variable
-add_to_path('/opt/homebrew/bin')
-
 state = {}
 
 
